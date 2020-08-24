@@ -1,5 +1,11 @@
 # Release History
 
+### 0.4.0 / 2020-08-24
+
+#### Features
+
+* Support Finding#severity field
+
 ### 0.3.4 / 2020-08-10
 
 #### Bug Fixes
